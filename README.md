@@ -30,12 +30,13 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https://www.php.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> </p><br>
 
+
 <hr width="100%" >
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manueltrivino&show_icons=true&theme=blueberry&locale=es&layout=compact" alt="Manueltrivino" /></p> 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Manueltrivino&show_icons=true&theme=blueberry&locale=es" alt="Manueltrivino" /></p>
-<br><br><br><br><br><br><br><br> 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Manueltrivino&theme=blueberry" alt="Manueltrivino" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manueltrivino&show_icons=true&theme=blueberry&locale=es&layout=compact" alt="Manueltrivino" /></p> 
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Manueltrivino&show_icons=true&theme=blueberry&locale=es" alt="Manueltrivino" /></p>
+<br><br><br><br><br><br><br><br> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Manueltrivino&theme=blueberry" alt="Manueltrivino" /></p> 
 
 <hr width="100%" >
 
